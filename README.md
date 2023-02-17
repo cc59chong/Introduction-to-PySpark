@@ -5,7 +5,7 @@ Spark is a tool for doing parallel computation with large datasets and it integr
 ### Getting to know PySpark
 How Spark manages data and how can you read and write tables from Python.
 ### Manipulating data
-about the pyspark.sql module, which provides optimized data queries to your Spark session.
+About the pyspark.sql module, which provides optimized data queries to your Spark session.
 ### Getting started with machine learning pipelines
 PySpark has built-in, cutting-edge machine learning routines, along with utilities to create full machine learning pipelines.
 ### Model tuning and selection
